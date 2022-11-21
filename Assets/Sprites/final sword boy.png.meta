@@ -1,0 +1,4049 @@
+fileFormatVersion: 2
+guid: 06211927110101741ae34c24b84e7d33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: final sword boy_idle0
+  - first:
+      213: 21300002
+    second: final sword boy_idle1
+  - first:
+      213: 21300004
+    second: final sword boy_idle2
+  - first:
+      213: 21300006
+    second: final sword boy_idle3
+  - first:
+      213: 21300008
+    second: final sword boy_idle4
+  - first:
+      213: 21300010
+    second: final sword boy_idle6
+  - first:
+      213: 21300012
+    second: final sword boy_idle7
+  - first:
+      213: 21300014
+    second: final sword boy_idle8
+  - first:
+      213: 21300016
+    second: final sword boy_idle9
+  - first:
+      213: 21300018
+    second: final sword boy_idle10
+  - first:
+      213: 21300020
+    second: final sword boy_duck1
+  - first:
+      213: 21300022
+    second: final sword boy_duck2
+  - first:
+      213: 21300024
+    second: final sword boy_duck3
+  - first:
+      213: 21300026
+    second: final sword boy_stand0
+  - first:
+      213: 21300028
+    second: final sword boy_stand1
+  - first:
+      213: 21300030
+    second: final sword boy_stand2
+  - first:
+      213: 21300032
+    second: final sword boy_duck0
+  - first:
+      213: 21300034
+    second: final sword boy_idle11
+  - first:
+      213: 21300036
+    second: final sword boy_idle12
+  - first:
+      213: 21300038
+    second: final sword boy_idle13
+  - first:
+      213: 21300040
+    second: final sword boy_idle14
+  - first:
+      213: 21300042
+    second: final sword boy_idle15
+  - first:
+      213: 21300044
+    second: final sword boy_idle16
+  - first:
+      213: 21300046
+    second: final sword boy_idle17
+  - first:
+      213: 21300048
+    second: final sword boy_idle18
+  - first:
+      213: 21300050
+    second: final sword boy_idle19
+  - first:
+      213: 21300052
+    second: final sword boy_idle20
+  - first:
+      213: 21300054
+    second: final sword boy_idle21
+  - first:
+      213: 21300056
+    second: final sword boy_idle22
+  - first:
+      213: 21300058
+    second: final sword boy_idle23
+  - first:
+      213: 21300060
+    second: final sword boy_idle24
+  - first:
+      213: 21300062
+    second: final sword boy_idle25
+  - first:
+      213: 21300064
+    second: final sword boy_idle26
+  - first:
+      213: 21300066
+    second: final sword boy_idle27
+  - first:
+      213: 21300068
+    second: final sword boy_walk0
+  - first:
+      213: 21300070
+    second: final sword boy_walk1
+  - first:
+      213: 21300072
+    second: final sword boy_walk2
+  - first:
+      213: 21300074
+    second: final sword boy_walk3
+  - first:
+      213: 21300076
+    second: final sword boy_walk4
+  - first:
+      213: 21300078
+    second: final sword boy_walk5
+  - first:
+      213: 21300080
+    second: final sword boy_walk6
+  - first:
+      213: 21300082
+    second: final sword boy_walk7
+  - first:
+      213: 21300084
+    second: final sword boy_walk8
+  - first:
+      213: 21300086
+    second: final sword boy_jump0
+  - first:
+      213: 21300088
+    second: final sword boy_jump1
+  - first:
+      213: 21300090
+    second: final sword boy_jump2
+  - first:
+      213: 21300092
+    second: final sword boy_jump3
+  - first:
+      213: 21300094
+    second: final sword boy_land4
+  - first:
+      213: 21300096
+    second: final sword boy_land3
+  - first:
+      213: 21300098
+    second: final sword boy_land2
+  - first:
+      213: 21300100
+    second: final sword boy_land1
+  - first:
+      213: 21300102
+    second: final sword boy_land0
+  - first:
+      213: 21300104
+    second: final sword boy_air0
+  - first:
+      213: 21300106
+    second: final sword boy_air1
+  - first:
+      213: 21300108
+    second: final sword boy_air2
+  - first:
+      213: 21300110
+    second: final sword boy_forward8
+  - first:
+      213: 21300112
+    second: final sword boy_forward7
+  - first:
+      213: 21300114
+    second: final sword boy_forward6
+  - first:
+      213: 21300116
+    second: final sword boy_forward5
+  - first:
+      213: 21300118
+    second: final sword boy_forward4
+  - first:
+      213: 21300120
+    second: final sword boy_forward3
+  - first:
+      213: 21300122
+    second: final sword boy_forward2
+  - first:
+      213: 21300124
+    second: final sword boy_forward1
+  - first:
+      213: 21300126
+    second: final sword boy_forward0
+  - first:
+      213: 21300128
+    second: final sword boy_back0
+  - first:
+      213: 21300130
+    second: final sword boy_back1
+  - first:
+      213: 21300132
+    second: final sword boy_back2
+  - first:
+      213: 21300134
+    second: final sword boy_0
+  - first:
+      213: 21300136
+    second: final sword boy_1
+  - first:
+      213: 21300138
+    second: final sword boy_2
+  - first:
+      213: 21300140
+    second: final sword boy_3
+  - first:
+      213: 21300142
+    second: final sword boy_4
+  - first:
+      213: 21300144
+    second: final sword boy_5
+  - first:
+      213: 21300146
+    second: final sword boy_6
+  - first:
+      213: 21300148
+    second: final sword boy_7
+  - first:
+      213: 21300150
+    second: final sword boy_8
+  - first:
+      213: 21300152
+    second: final sword boy_9
+  - first:
+      213: 21300154
+    second: final sword boy_10
+  - first:
+      213: 21300156
+    second: final sword boy_11
+  - first:
+      213: 21300158
+    second: final sword boy_12
+  - first:
+      213: 21300160
+    second: final sword boy_13
+  - first:
+      213: 21300162
+    second: final sword boy_14
+  - first:
+      213: 21300164
+    second: final sword boy_15
+  - first:
+      213: 21300166
+    second: final sword boy_16
+  - first:
+      213: 21300168
+    second: final sword boy_17
+  - first:
+      213: 21300170
+    second: final sword boy_18
+  - first:
+      213: 21300172
+    second: final sword boy_19
+  - first:
+      213: 21300174
+    second: final sword boy_20
+  - first:
+      213: 21300176
+    second: final sword boy_21
+  - first:
+      213: 21300178
+    second: final sword boy_22
+  - first:
+      213: 21300180
+    second: final sword boy_23
+  - first:
+      213: 21300182
+    second: final sword boy_24
+  - first:
+      213: 21300184
+    second: final sword boy_25
+  - first:
+      213: 21300186
+    second: final sword boy_26
+  - first:
+      213: 21300188
+    second: final sword boy_27
+  - first:
+      213: 21300190
+    second: final sword boy_28
+  - first:
+      213: 21300192
+    second: final sword boy_29
+  - first:
+      213: 21300194
+    second: final sword boy_30
+  - first:
+      213: 21300196
+    second: final sword boy_31
+  - first:
+      213: 21300198
+    second: final sword boy_32
+  - first:
+      213: 21300200
+    second: final sword boy_33
+  - first:
+      213: 21300202
+    second: final sword boy_34
+  - first:
+      213: 21300204
+    second: final sword boy_35
+  - first:
+      213: 21300206
+    second: final sword boy_36
+  - first:
+      213: 21300208
+    second: final sword boy_37
+  - first:
+      213: 21300210
+    second: final sword boy_38
+  - first:
+      213: 21300212
+    second: final sword boy_39
+  - first:
+      213: 21300214
+    second: final sword boy_40
+  - first:
+      213: 21300216
+    second: final sword boy_41
+  - first:
+      213: 21300218
+    second: final sword boy_42
+  - first:
+      213: 21300220
+    second: final sword boy_43
+  - first:
+      213: 21300222
+    second: final sword boy_44
+  - first:
+      213: 21300224
+    second: final sword boy_45
+  - first:
+      213: 21300226
+    second: final sword boy_46
+  - first:
+      213: 21300228
+    second: final sword boy_47
+  - first:
+      213: 21300230
+    second: final sword boy_48
+  - first:
+      213: 21300232
+    second: final sword boy_49
+  - first:
+      213: 21300234
+    second: final sword boy_50
+  - first:
+      213: 21300236
+    second: final sword boy_51
+  - first:
+      213: 21300238
+    second: final sword boy_52
+  - first:
+      213: 21300240
+    second: final sword boy_53
+  - first:
+      213: 21300242
+    second: final sword boy_54
+  - first:
+      213: 21300244
+    second: final sword boy_55
+  - first:
+      213: 21300246
+    second: final sword boy_56
+  - first:
+      213: 21300248
+    second: final sword boy_57
+  - first:
+      213: 21300250
+    second: final sword boy_58
+  - first:
+      213: 21300252
+    second: final sword boy_59
+  - first:
+      213: 21300254
+    second: final sword boy_60
+  - first:
+      213: 21300256
+    second: final sword boy_61
+  - first:
+      213: 21300258
+    second: final sword boy_62
+  - first:
+      213: 21300260
+    second: final sword boy_63
+  - first:
+      213: 21300262
+    second: final sword boy_64
+  - first:
+      213: 21300264
+    second: final sword boy_65
+  - first:
+      213: 21300266
+    second: final sword boy_66
+  - first:
+      213: 21300268
+    second: final sword boy_67
+  - first:
+      213: 21300270
+    second: final sword boy_68
+  - first:
+      213: 21300272
+    second: final sword boy_69
+  - first:
+      213: 21300274
+    second: final sword boy_70
+  - first:
+      213: 21300276
+    second: final sword boy_71
+  - first:
+      213: 21300278
+    second: final sword boy_72
+  - first:
+      213: 21300280
+    second: final sword boy_73
+  - first:
+      213: 21300282
+    second: final sword boy_74
+  - first:
+      213: 21300284
+    second: final sword boy_75
+  - first:
+      213: 21300286
+    second: final sword boy_76
+  - first:
+      213: 21300288
+    second: final sword boy_77
+  - first:
+      213: 21300290
+    second: final sword boy_78
+  - first:
+      213: 21300292
+    second: final sword boy_79
+  - first:
+      213: 21300294
+    second: final sword boy_80
+  - first:
+      213: 21300296
+    second: final sword boy_81
+  - first:
+      213: 21300298
+    second: final sword boy_82
+  - first:
+      213: 21300300
+    second: final sword boy_83
+  - first:
+      213: 21300302
+    second: final sword boy_84
+  - first:
+      213: 21300304
+    second: final sword boy_85
+  - first:
+      213: 21300306
+    second: final sword boy_86
+  - first:
+      213: 21300308
+    second: final sword boy_87
+  - first:
+      213: 21300310
+    second: final sword boy_88
+  - first:
+      213: 21300312
+    second: final sword boy_89
+  - first:
+      213: 21300314
+    second: final sword boy_90
+  - first:
+      213: 21300316
+    second: final sword boy_91
+  - first:
+      213: 21300318
+    second: final sword boy_92
+  - first:
+      213: 21300320
+    second: final sword boy_93
+  - first:
+      213: 21300322
+    second: final sword boy_94
+  - first:
+      213: 21300324
+    second: final sword boy_95
+  - first:
+      213: 21300326
+    second: final sword boy_96
+  - first:
+      213: 21300328
+    second: final sword boy_97
+  - first:
+      213: 21300330
+    second: final sword boy_98
+  - first:
+      213: 21300332
+    second: final sword boy_99
+  - first:
+      213: 21300334
+    second: final sword boy_100
+  - first:
+      213: 21300336
+    second: final sword boy_101
+  - first:
+      213: 21300338
+    second: final sword boy_102
+  - first:
+      213: 21300340
+    second: final sword boy_103
+  - first:
+      213: 21300342
+    second: final sword boy_104
+  - first:
+      213: 21300344
+    second: final sword boy_105
+  - first:
+      213: 21300346
+    second: final sword boy_106
+  - first:
+      213: 21300348
+    second: final sword boy_107
+  - first:
+      213: 21300350
+    second: final sword boy_108
+  - first:
+      213: 21300352
+    second: final sword boy_109
+  - first:
+      213: 21300354
+    second: final sword boy_110
+  - first:
+      213: 21300356
+    second: final sword boy_111
+  - first:
+      213: 21300358
+    second: final sword boy_112
+  - first:
+      213: 21300360
+    second: final sword boy_113
+  - first:
+      213: 21300362
+    second: battery_color5
+  - first:
+      213: 21300364
+    second: battery_color4
+  - first:
+      213: 21300366
+    second: battery_color3
+  - first:
+      213: 21300368
+    second: battery_color2
+  - first:
+      213: 21300370
+    second: battery_color1
+  - first:
+      213: 21300372
+    second: battery_color0
+  - first:
+      213: 21300374
+    second: battery_black5
+  - first:
+      213: 21300376
+    second: battery_black4
+  - first:
+      213: 21300378
+    second: battery_black3
+  - first:
+      213: 21300380
+    second: battery_black2
+  - first:
+      213: 21300382
+    second: battery_black1
+  - first:
+      213: 21300384
+    second: battery_black0
+  - first:
+      213: 21300386
+    second: celeste_strawberry
+  - first:
+      213: 21300388
+    second: alert_on
+  - first:
+      213: 21300390
+    second: alert_off
+  - first:
+      213: 21300392
+    second: excl_white
+  - first:
+      213: 21300394
+    second: excl_black
+  - first:
+      213: 21300396
+    second: score_display
+  - first:
+      213: 21300398
+    second: score_icon
+  - first:
+      213: 21300400
+    second: text_a
+  - first:
+      213: 21300402
+    second: text_b
+  - first:
+      213: 21300404
+    second: text_c
+  - first:
+      213: 21300406
+    second: text_d
+  - first:
+      213: 21300408
+    second: text_e
+  - first:
+      213: 21300410
+    second: text_f
+  - first:
+      213: 21300412
+    second: text_g
+  - first:
+      213: 21300414
+    second: text_h
+  - first:
+      213: 21300416
+    second: text_i
+  - first:
+      213: 21300418
+    second: text_j
+  - first:
+      213: 21300420
+    second: text_k
+  - first:
+      213: 21300422
+    second: text_l
+  - first:
+      213: 21300424
+    second: text_n
+  - first:
+      213: 21300426
+    second: text_m
+  - first:
+      213: 21300428
+    second: text_o
+  - first:
+      213: 21300430
+    second: text_p
+  - first:
+      213: 21300432
+    second: text_q
+  - first:
+      213: 21300434
+    second: text_r
+  - first:
+      213: 21300436
+    second: text_s
+  - first:
+      213: 21300438
+    second: text_t
+  - first:
+      213: 21300440
+    second: text_u
+  - first:
+      213: 21300442
+    second: text_v
+  - first:
+      213: 21300444
+    second: text_w
+  - first:
+      213: 21300446
+    second: text_x
+  - first:
+      213: 21300448
+    second: text_y
+  - first:
+      213: 21300450
+    second: text_z
+  - first:
+      213: 21300452
+    second: text_1
+  - first:
+      213: 21300454
+    second: text_2
+  - first:
+      213: 21300456
+    second: text_3
+  - first:
+      213: 21300458
+    second: text_4
+  - first:
+      213: 21300460
+    second: text_5
+  - first:
+      213: 21300462
+    second: text_6
+  - first:
+      213: 21300464
+    second: text_7
+  - first:
+      213: 21300466
+    second: text_8
+  - first:
+      213: 21300468
+    second: text_9
+  - first:
+      213: 21300470
+    second: text_0
+  - first:
+      213: 21300472
+    second: battery_color5
+  - first:
+      213: 21300474
+    second: score_banner_empty
+  - first:
+      213: 21300476
+    second: battery_dark5
+  - first:
+      213: 21300478
+    second: battery_dark4
+  - first:
+      213: 21300480
+    second: battery_dark3
+  - first:
+      213: 21300482
+    second: battery_dark2
+  - first:
+      213: 21300484
+    second: battery_dark1
+  - first:
+      213: 21300486
+    second: battery_dark0
+  - first:
+      213: 21300488
+    second: alert_full
+  - first:
+      213: 21300490
+    second: alert_outline
+  - first:
+      213: 21300492
+    second: excl_light
+  - first:
+      213: 21300494
+    second: excl_dark
+  - first:
+      213: 21300496
+    second: celeste_berry
+  - first:
+      213: 21300498
+    second: score_crystal
+  - first:
+      213: 21300500
+    second: number_0
+  - first:
+      213: 21300502
+    second: number_9
+  - first:
+      213: 21300504
+    second: number_8
+  - first:
+      213: 21300506
+    second: number_7
+  - first:
+      213: 21300508
+    second: number_6
+  - first:
+      213: 21300510
+    second: number_5
+  - first:
+      213: 21300512
+    second: number_4
+  - first:
+      213: 21300514
+    second: number_3
+  - first:
+      213: 21300516
+    second: number_2
+  - first:
+      213: 21300518
+    second: number_1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: final sword boy_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396382a1479d1e94a8a52697c7466748
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e698f585f1af6499ba825b8ffd242f
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ceb700e6cad01409711a02d0b8e513
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c7c5e6a19dcdf4db5dfc6b894fc385
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce81b943deba57a4aa481ce46144af67
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c7f3613c88d234298bfceb0d5175d6
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b43b173860bf1b4786f44096b418e27
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211487a136929e3498ecf16d2a58983e
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cccead0c4da7d64f9bdeb0b635b736f
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_9
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da68f9c001b563a438e156ac2e97627f
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_10
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e214785d24f37438bc50e31879d267
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_11
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdbbf7e2cdbcc343852cdd067a52cef
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_12
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c440fb229e6b2419286e5d89460a81
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff736e79df177343aa6644006ea5b74
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_14
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8bde9d62875f24fb7ac4750ee062ff
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_15
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958c1f132761f0a439ccf661ccc0e46a
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_16
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ba95ce7e328d744be1012055621ae1
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_17
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0bfa9e7ac9ec848aa0014e172b6f8b
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_18
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d6435a87db27a448d82939a6b6300f
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_19
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d68114aa4f3e04bb7b5646f37abe1b
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_20
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb21b61c1c78d47a58908627138a48
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_21
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae15028d8e5d8b46a257fa01f1863ad
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_22
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e71affc5a147f45b9df10c51d4a770
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_23
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcac26ddca653b4cbeb0659f7eae80a
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_24
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6986c89988beee24f8c1a4fa2f809209
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_25
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7105d616f5ef0fc418b3adb9065a7077
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_26
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b45f10175249b42930121ca809328a
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_27
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21529fef6a77f1f468813aadc603c236
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_28
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe847906ad3281d4bbd2070aaa222b81
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_29
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e0b6efaf986184cad61665ab890193
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_30
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3be4369f2e84d439ec413d647da8e1
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_31
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ab347f3855f714e9a9e85a36196948
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_32
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0628237c36ca0b042a9228612e1dfc83
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_33
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d03ea6d4c12414383e070d1b0bc171
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_34
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95d2b6ab8f660c4092022c320a9e2d6
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_35
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e818742a784040e45b4c79fedce3e5d1
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_36
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4780e1bcfd82343478c6dd0a95aa1aa1
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_37
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8bef35beaee3646a12585dcb536598
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_38
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b114f867f1b0f614f8de804ccec66feb
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_39
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746fa64a2bb560e45a931de146b9469c
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_40
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f2e24448a4f62459fe06394af91365
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_41
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b395867b74f8f84cb9e810963ac01ac
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_42
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e076beb90e00abc4d8ddc2db74bb2c0d
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_43
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726888e62ff4abd489042343bd404288
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_44
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866239cceef514a4880527c06735b15f
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_45
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8946861929458824b968008c17ce3cd0
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_46
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88663d3fbb84db046b832aed98398be8
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_47
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbb4c0bedffc4e49a56edb16531da0d
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_48
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c199a7a089ab9094ea8ac680f1decc36
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_49
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5a93eebe9389542b8e9293fd91be07
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_50
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f6a5fddda64694290baeea979c39d9
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_51
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22df49b81ca04fb44a2b7a5ba7ab17b2
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_52
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf731ecae1788649845bfc38c9cf2c0
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_53
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead3a10ac72385b49890e5d596f887c8
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_54
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3662542958db9444ea0f9a70b3bd988f
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_55
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a23acee0f2c9549bf83bbf4fd9638a
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_56
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8a8a9d69d10164cbb15177c31885d8
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_57
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e80a81b7ebed0448fba1118523c64d
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_58
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a27a25a845f243b8435c5d74a6cc6
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_59
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7d354480a701f4aaf2031bf665f43e
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_60
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60612178a6d3a384fb354aa05a02d867
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_61
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cec294d7d10f4e44be5bd39292df8c6
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_62
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d322e457f0164f4dac428e9d44de1ac
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_63
+      rect:
+        serializedVersion: 2
+        x: 4226
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7d09af53091df4795020d6a24e75cd
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_64
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bd37e1d32e77e4696a2fc611fa1686
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_65
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d55cbd912caa743a17ccb6672c30ca
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_66
+      rect:
+        serializedVersion: 2
+        x: 4427
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf452411e143dd645b98324d85793fa9
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_67
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223e5de4571f6f24aa19fc79439f4c6b
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_68
+      rect:
+        serializedVersion: 2
+        x: 4561
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758131dd255b7af4695ab135782a0944
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_69
+      rect:
+        serializedVersion: 2
+        x: 4628
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eca3d35d4bb2e429aac6f5046d7565
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_70
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1ca8edc836b6642a597faec1cffdb8
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_71
+      rect:
+        serializedVersion: 2
+        x: 4762
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acdc57dfd5c77346849c67e98ec80c4
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_72
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447f75b6df4db9047a722df1dd2008a2
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_73
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ece00ac716d84987a15e792161fae
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_74
+      rect:
+        serializedVersion: 2
+        x: 4963
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72bde2a3cbe29142a211ce12211838c
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_75
+      rect:
+        serializedVersion: 2
+        x: 5030
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b66d421a733e7149b0590ac7d60ffb1
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_76
+      rect:
+        serializedVersion: 2
+        x: 5097
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4658f54717782ab4c9374d829ab430d6
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_77
+      rect:
+        serializedVersion: 2
+        x: 5164
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f93cc9353d59fa44b3a7c48d3a742cb
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_78
+      rect:
+        serializedVersion: 2
+        x: 5231
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372f17badecb0034697e93d211155179
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_79
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349f4f5a8e786c44bb674a05fa07f7e6
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_80
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cae520ecda122d4a852224be92c322a
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_81
+      rect:
+        serializedVersion: 2
+        x: 5432
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6908235c91cd874c99b1b42ae33f68e
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_82
+      rect:
+        serializedVersion: 2
+        x: 5499
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06a327d7c088a644ad4d49acc213302
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_83
+      rect:
+        serializedVersion: 2
+        x: 5566
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e51cdaa8023c64ab0bc5674c54a9bf
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_84
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d613bdb5beafaf44488f4f713edf81d7
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_85
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141306a488607574f877fcbf1bab35b5
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_86
+      rect:
+        serializedVersion: 2
+        x: 5767
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e8b0914a5aeaa4b8d0ca47894a7c12
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_87
+      rect:
+        serializedVersion: 2
+        x: 5834
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f838f38b62fe745b4c87d17b4a75eb
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_88
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f67c39793359b041b7b53e4dbace79a
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_89
+      rect:
+        serializedVersion: 2
+        x: 5968
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e3629af551caf43aa7063642b9f517
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_90
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c72e83ee0d5414788cf31d57f52c11
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_91
+      rect:
+        serializedVersion: 2
+        x: 6102
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfebc050407dfa46931260bd4341f11
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_92
+      rect:
+        serializedVersion: 2
+        x: 6169
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5735a34864e8cf24b9a59406a571d4ea
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_93
+      rect:
+        serializedVersion: 2
+        x: 6236
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc7b8411fc9d944492e33130d6d8227
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_94
+      rect:
+        serializedVersion: 2
+        x: 6303
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f3782310c43d545b550d8d8e983b25
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_95
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62954fd000ae80242aef20d2d155731d
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_96
+      rect:
+        serializedVersion: 2
+        x: 6437
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae1560d7aea72848b07de8eeeb1a6e5
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_97
+      rect:
+        serializedVersion: 2
+        x: 6504
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6fb11815ab7dd4ebc2a4ffb81aa085
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_98
+      rect:
+        serializedVersion: 2
+        x: 6571
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0906e96eb08800442b6ce99e334d3915
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_99
+      rect:
+        serializedVersion: 2
+        x: 6638
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7d1f89f4f4c8e45a79f41e2c124097
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_100
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3c83869b6389d41a86880c9af2812a
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_101
+      rect:
+        serializedVersion: 2
+        x: 6772
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7139396c16ddf5d478d5b2dcd72666d0
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_102
+      rect:
+        serializedVersion: 2
+        x: 6839
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcba733daf0bb1c44894c644a0f40ea8
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_103
+      rect:
+        serializedVersion: 2
+        x: 6906
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b750fe80cc85345bd42ac0eb5ed344
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_104
+      rect:
+        serializedVersion: 2
+        x: 6973
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b729db4dc9ab047af0bf7c2aa27009
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_105
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab9c7ec366a194591554f1a48b73df
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_106
+      rect:
+        serializedVersion: 2
+        x: 7107
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd369e8ce0520724f8d5847ca1814870
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_107
+      rect:
+        serializedVersion: 2
+        x: 7174
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e368b65ca4be8614d867433f198f5f1f
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_108
+      rect:
+        serializedVersion: 2
+        x: 7241
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deabf1bfd28378b4fbeed8147c1a2062
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_109
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefdb147d1de6614e86844d20ed2eb39
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_110
+      rect:
+        serializedVersion: 2
+        x: 7375
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cb98240cb5d8045a4d804a2a3042c7
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_111
+      rect:
+        serializedVersion: 2
+        x: 7442
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c549e1b4395504eb7dcc723040db18
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_112
+      rect:
+        serializedVersion: 2
+        x: 7509
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac1c527bfb020847b21b9e8b977a6d7
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final sword boy_113
+      rect:
+        serializedVersion: 2
+        x: 7576
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89828f500e8d8564983f9f7a21787ea9
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battery_color5
+      rect:
+        serializedVersion: 2
+        x: 7640
+        y: 57
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668cddb1a8bf6f744ba26405c31359e6
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: score_banner_empty
+      rect:
+        serializedVersion: 2
+        x: 7719
+        y: 41
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc0bfc78678aef40bcb64511d4ace5c
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battery_color4
+      rect:
+        serializedVersion: 2
+        x: 7640
+        y: 47
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7a0ae88eaa16448881d58300f8ba3b
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battery_color3
+      rect:
+        serializedVersion: 2
+        x: 7640
+        y: 37
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57909cb0eaa666a4fad52052650ece82
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battery_color2
+      rect:
+        serializedVersion: 2
+        x: 7640
+        y: 27
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d282e686633843942a9a533dc77ea663
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battery_color1
+      rect:
+        serializedVersion: 2
+        x: 7640
+        y: 17
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b803b63a1616b84b9887927156ca0fa
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battery_color0
+      rect:
+        serializedVersion: 2
+        x: 7640
+        y: 7
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f560895f14251468ca666f7e3d0dc1
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battery_dark5
+      rect:
+        serializedVersion: 2
+        x: 7660
+        y: 57
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c931bec4db824e9a5a3c0019c05e1
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battery_dark4
+      rect:
+        serializedVersion: 2
+        x: 7660
+        y: 47
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9383f568f6b6a4d418f7c2cc530004fb
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battery_dark3
+      rect:
+        serializedVersion: 2
+        x: 7660
+        y: 37
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90c832c63ad6c34fb34aab552c85442
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battery_dark2
+      rect:
+        serializedVersion: 2
+        x: 7660
+        y: 27
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ba7464b37814a4f952765182d47a18
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battery_dark1
+      rect:
+        serializedVersion: 2
+        x: 7660
+        y: 17
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11bc6d325bd5934b9c59e5919c45ad8
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battery_dark0
+      rect:
+        serializedVersion: 2
+        x: 7640
+        y: 7
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b04ae784341724f8e2a23b35697f53
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alert_full
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 51
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074d4369d8cf0fe4ab2979bee593fd6a
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alert_outline
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 34
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf319d075178124d9eb336237d80467
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: excl_light
+      rect:
+        serializedVersion: 2
+        x: 7698
+        y: 52
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a8cbab6d182d47b00426afca21aa7
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: excl_dark
+      rect:
+        serializedVersion: 2
+        x: 7698
+        y: 41
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6048d2e32d66d649935e798de07a2b8
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celeste_berry
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 20
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ec07a338c51e9419c413c468331c5b
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: score_crystal
+      rect:
+        serializedVersion: 2
+        x: 7757
+        y: 42
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4cfe9588a12374aa570a6d506bdb54
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number_0
+      rect:
+        serializedVersion: 2
+        x: 7711
+        y: 30
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7547ac3771e3f2a4185f62c7aa435e54
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number_9
+      rect:
+        serializedVersion: 2
+        x: 7715
+        y: 36
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2526cf3ef3e3b864f935ad18a1574c21
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number_8
+      rect:
+        serializedVersion: 2
+        x: 7711
+        y: 36
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9df9965756a8b40aa1fd07c70aaf9d
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number_7
+      rect:
+        serializedVersion: 2
+        x: 7707
+        y: 36
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c51b7eae1378440bed25b129ec7654
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number_6
+      rect:
+        serializedVersion: 2
+        x: 7715
+        y: 42
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a0a23c8d8bbe74b8c94c9120861bf5
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number_5
+      rect:
+        serializedVersion: 2
+        x: 7711
+        y: 42
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998eeedd3d17d8948a968d0d215c43f9
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number_4
+      rect:
+        serializedVersion: 2
+        x: 7707
+        y: 42
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075bb5a3dd7ff9246a5859f0b7d9862c
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number_3
+      rect:
+        serializedVersion: 2
+        x: 7715
+        y: 48
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4424d7543e84b44bbbaaf94b3d3959
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number_2
+      rect:
+        serializedVersion: 2
+        x: 7711
+        y: 48
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b052e54ea4a3bb54d9113ecdcf79aea1
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number_1
+      rect:
+        serializedVersion: 2
+        x: 7707
+        y: 48
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cca77997fc7e3439e0455766b14854
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 427a9a4367267b14dac17a1304a46692
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      final sword boy_63: 21300260
+      final sword boy_99: 21300332
+      final sword boy_64: 21300262
+      final sword boy_72: 21300278
+      final sword boy_73: 21300280
+      final sword boy_48: 21300230
+      number_3: 21300514
+      battery_color5: 21300362
+      final sword boy_83: 21300300
+      final sword boy_80: 21300294
+      final sword boy_9: 21300152
+      final sword boy_32: 21300198
+      final sword boy_38: 21300210
+      final sword boy_91: 21300316
+      final sword boy_88: 21300310
+      final sword boy_106: 21300346
+      number_4: 21300512
+      number_6: 21300508
+      number_7: 21300506
+      final sword boy_66: 21300266
+      final sword boy_3: 21300140
+      final sword boy_49: 21300232
+      number_8: 21300504
+      final sword boy_84: 21300302
+      final sword boy_26: 21300186
+      final sword boy_46: 21300226
+      final sword boy_56: 21300246
+      final sword boy_76: 21300286
+      final sword boy_62: 21300258
+      final sword boy_112: 21300358
+      battery_dark1: 21300484
+      final sword boy_40: 21300214
+      final sword boy_6: 21300146
+      final sword boy_78: 21300290
+      final sword boy_10: 21300154
+      final sword boy_5: 21300144
+      battery_color3: 21300366
+      final sword boy_70: 21300274
+      final sword boy_17: 21300168
+      final sword boy_7: 21300148
+      final sword boy_21: 21300176
+      final sword boy_13: 21300160
+      final sword boy_53: 21300240
+      final sword boy_31: 21300196
+      final sword boy_65: 21300264
+      final sword boy_69: 21300272
+      final sword boy_71: 21300276
+      final sword boy_110: 21300354
+      celeste_berry: 21300496
+      final sword boy_47: 21300228
+      battery_dark0: 21300486
+      final sword boy_102: 21300338
+      number_1: 21300518
+      final sword boy_16: 21300166
+      final sword boy_54: 21300242
+      final sword boy_104: 21300342
+      final sword boy_37: 21300208
+      final sword boy_90: 21300314
+      final sword boy_14: 21300162
+      score_crystal: 21300498
+      final sword boy_105: 21300344
+      battery_color1: 21300370
+      final sword boy_8: 21300150
+      final sword boy_23: 21300180
+      battery_color0: 21300372
+      final sword boy_27: 21300188
+      final sword boy_55: 21300244
+      alert_full: 21300488
+      final sword boy_81: 21300296
+      final sword boy_2: 21300138
+      final sword boy_67: 21300268
+      final sword boy_68: 21300270
+      final sword boy_100: 21300334
+      final sword boy_4: 21300142
+      final sword boy_108: 21300350
+      final sword boy_41: 21300216
+      final sword boy_24: 21300182
+      final sword boy_30: 21300194
+      final sword boy_109: 21300352
+      final sword boy_18: 21300170
+      final sword boy_42: 21300218
+      final sword boy_75: 21300284
+      final sword boy_58: 21300250
+      final sword boy_60: 21300254
+      final sword boy_29: 21300192
+      excl_light: 21300492
+      final sword boy_12: 21300158
+      final sword boy_85: 21300304
+      final sword boy_1: 21300136
+      final sword boy_96: 21300326
+      final sword boy_89: 21300312
+      final sword boy_87: 21300308
+      excl_dark: 21300494
+      battery_color4: 21300364
+      battery_dark2: 21300482
+      final sword boy_94: 21300322
+      final sword boy_103: 21300340
+      number_5: 21300510
+      final sword boy_51: 21300236
+      final sword boy_0: 21300134
+      final sword boy_92: 21300318
+      final sword boy_113: 21300360
+      final sword boy_28: 21300190
+      final sword boy_86: 21300306
+      final sword boy_95: 21300324
+      score_banner_empty: 21300474
+      final sword boy_59: 21300252
+      number_0: 21300500
+      final sword boy_44: 21300222
+      alert_outline: 21300490
+      final sword boy_111: 21300356
+      battery_dark5: 21300476
+      final sword boy_15: 21300164
+      final sword boy_35: 21300204
+      battery_color2: 21300368
+      final sword boy_98: 21300330
+      final sword boy_52: 21300238
+      final sword boy_33: 21300200
+      final sword boy_77: 21300288
+      final sword boy_74: 21300282
+      final sword boy_61: 21300256
+      number_2: 21300516
+      final sword boy_50: 21300234
+      battery_dark3: 21300480
+      final sword boy_43: 21300220
+      battery_dark4: 21300478
+      final sword boy_93: 21300320
+      final sword boy_39: 21300212
+      final sword boy_45: 21300224
+      final sword boy_57: 21300248
+      final sword boy_79: 21300292
+      final sword boy_101: 21300336
+      final sword boy_36: 21300206
+      final sword boy_22: 21300178
+      final sword boy_25: 21300184
+      final sword boy_19: 21300172
+      final sword boy_11: 21300156
+      final sword boy_107: 21300348
+      number_9: 21300502
+      final sword boy_97: 21300328
+      final sword boy_20: 21300174
+      final sword boy_34: 21300202
+      final sword boy_82: 21300298
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
